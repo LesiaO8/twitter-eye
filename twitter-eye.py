@@ -23,7 +23,7 @@
 # Respect all developers, we doing this because it's fun...
 
 ########################################################################
-
+#commented by lesia
 
 import twint
 import sys
